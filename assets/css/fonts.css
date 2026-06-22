@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Antarctica';
+    src: url("/assets/css/fonts/Antarctica Trial VAR/Antarctica Trial VAR OTF/Antarctica Trial VAR-VF.otf");
+}
+
+
+@font-face {
+    font-family: "Oswald", serif;
+    src: url();
+    font-optical-sizing: auto;
+    font-variation-settings: "wght" 200;
+}
+
